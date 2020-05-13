@@ -9,7 +9,7 @@
 
     3.建立一个本地Git代码库
     到指定目录 cd （可以直接从文件夹拖动）
-    $ git int 在当前目录新建一个Git代码库（.git 目录）
+    $ git init 在当前目录新建一个Git代码库（.git 目录）
 
     工作区 ==>> 缓冲区
     添加指定文件到暂存区
@@ -36,6 +36,9 @@
     登录github账号，Account Settings >> SSH keys >> Add new
 
     在github创建hellogit仓库（创建完成会有说明，可以在浏览器内操作）
+    git remote add origin https://github.com/ldc311/hellogit.git
     
-## vscode与markdown
+## vscode
+    右键菜单中增加Open in Default Browsers，在插件中搜索open in，安装
+## markdown
  https://zhuanlan.zhihu.com/p/56943330
