@@ -37,6 +37,7 @@
 
     在github创建hellogit仓库（创建完成会有说明，可以在浏览器内操作）
     git remote add origin https://github.com/ldc311/hellogit.git
+    git push origin master -f
     
 ## vscode
     右键菜单中增加Open in Default Browsers，在插件中搜索open in，安装
